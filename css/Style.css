@@ -1,0 +1,21 @@
+﻿.navbar-logo{ width: 60px; height: 50px; border-radius: 50px;}
+.navbar { background-color:rgba(22, 160, 133, 1);}
+.ass { background-color: rgba(104, 195, 163, 1);}
+body { background-color: rgba(104, 195, 163, 1);}
+ footer a { color: white; }
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+.checked {
+    color: orange;
+}
